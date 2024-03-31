@@ -2,6 +2,4 @@ Group_9_wet_smooth/*
 Papers/*
 Literature _review.docx
 New_dataset/*
-models/*
-test.py
-New_dataset.zip
+*.chkpt

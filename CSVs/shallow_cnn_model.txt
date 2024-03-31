@@ -1,0 +1,4 @@
+Learning Rate: 1e-05
+Epochs: 50
+Train Samples: 20000
+Batch Size: 64
